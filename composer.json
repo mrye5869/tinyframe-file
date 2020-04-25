@@ -1,0 +1,26 @@
+{
+    "name": "tinyframe/file",
+    "description": "the new tinyframe extend",
+    "keywords": [
+        "tinyframe",
+		"文件处理",
+        "文件上传",
+        "图片处理",
+        "图片上传"
+    ],
+    "authors": [
+        {
+            "name": "mrye",
+            "email": "55585190@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0",
+        "tinyframe/imagefont":"dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "og\\file\\": "src"
+        }
+    }
+}

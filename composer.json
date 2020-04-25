@@ -1,6 +1,7 @@
 {
     "name": "tinyframe/file",
     "description": "the new tinyframe extend",
+    "license": "Apache-2.0",
     "keywords": [
         "tinyframe",
 		"文件处理",

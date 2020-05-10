@@ -22,9 +22,9 @@ class QiuniuUpload
      * @var array
      */
     protected $config = [
-        'access'    => 'xF2g3xIi4sNmiL3_fO_rYBolPITH0My746LRMi65',
-        'secret'    => 'PUWv18H2u55VRJoS8xapSWWCBVa4v0ijeUiAyGLx',
-        'bucket'    => 'kaifatest',
+        'access'    => 'xxx',
+        'secret'    => 'xxx',
+        'bucket'    => 'xxx',
         'domain'    => 'http://qiniu.mrye.xin',
     ];
 
